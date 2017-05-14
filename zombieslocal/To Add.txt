@@ -1,0 +1,16 @@
+Graphic for zombies(fast,regular,fat)/drops/player/bullet/end screen/start screen
+
+tap to play enabled state
+
+Background graphic
+ 
+Background boundaries... (level dimension)
+
+Device enabled tap to shoot
+Device enable button to restart
+Device enabled movement pad
+
+Sounds 
+
+mines? 
+moltov?

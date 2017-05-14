@@ -1,0 +1,41 @@
+
+add zombie bug
+add running zombie
+add fat zombie
+add regular zombie different color (X3)
+add save a person (acquire power).
+add barking zombie (acquire supplies). 
+
+
+Fix respawn .remove error
+Add slow character with more hitpoints
+add fast character with less -incrimental hitpoints
+
+zombie badges 
+
+add kill ticker and place it in hud (Zombies Killed)  (score unike like oil and supplies with ticker) 
+
+
+500 killed  Zombie killer
+5000 killed Zombie Masaccar
+10000 killed Zombie Master
+
+collected x5,15,30 supplies 
+collect x5,15,30 power
+
+Record set.
+regular congrats.  
+
+upgraded fully. 
+
+played first game.
+played twice in a room. 
+
+died without scoring anything. 
+
+survive 5 minutes no damage. 
+killed no 1 type. 
+
+
+
+ 
